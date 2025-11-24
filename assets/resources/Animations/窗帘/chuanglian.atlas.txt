@@ -1,0 +1,34 @@
+
+chuanglian.png
+size: 1080, 1108
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chuanghu
+  rotate: true
+  xy: 2, 565
+  size: 541, 836
+  orig: 549, 847
+  offset: 3, 10
+  index: -1
+chuanglian1
+  rotate: false
+  xy: 831, 93
+  size: 247, 470
+  orig: 254, 470
+  offset: 0, 0
+  index: -1
+chuanglian2
+  rotate: false
+  xy: 840, 644
+  size: 189, 462
+  orig: 189, 462
+  offset: 0, 0
+  index: -1
+hongguang
+  rotate: true
+  xy: 2, 2
+  size: 561, 827
+  orig: 574, 840
+  offset: 7, 7
+  index: -1

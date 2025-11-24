@@ -1,0 +1,20 @@
+
+img_hand_1.png
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+yindao_guangquan
+  rotate: false
+  xy: 177, 33
+  size: 146, 146
+  orig: 150, 150
+  offset: 2, 2
+  index: -1
+yindao_shou
+  rotate: false
+  xy: 2, 2
+  size: 173, 177
+  orig: 173, 177
+  offset: 0, 0
+  index: -1

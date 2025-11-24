@@ -1,0 +1,38 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "height": 2048,
+      "width": 1150,
+      "fitWidth": false,
+      "fitHeight": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "UpLeft"
+      },
+      {
+        "index": 2,
+        "name": "UpRight"
+      },
+      {
+        "index": 3,
+        "name": "DownLeft"
+      },
+      {
+        "index": 4,
+        "name": "DownRight"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 14,
+      "2": 22,
+      "3": 26,
+      "4": 28
+    }
+  }
+}
